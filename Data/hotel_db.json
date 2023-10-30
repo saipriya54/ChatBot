@@ -1,6 +1,6 @@
 [
     {
-        "address": "124 tenison road",
+        "address": "124 Tenison road",
         "area": "east",
         "internet": "yes",
         "parking": "no",
@@ -9,7 +9,7 @@
             52.1963733,
             0.1987426
         ],
-        "name": "a and b guest house",
+        "name": "A and B guest house",
         "phone": "01223315702",
         "postcode": "cb12dp",
         "price": {
@@ -23,7 +23,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "154 chesterton road",
+        "address": "154 Chesterton Road",
         "area": "north",
         "internet": "yes",
         "parking": "yes",
@@ -46,7 +46,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "56 saint barnabas road",
+        "address": "56 Saint Barnabas Road",
         "area": "centre",
         "internet": "yes",
         "parking": "yes",
@@ -55,7 +55,7 @@
             52.1986444444444,
             0.138133333333333
         ],
-        "name": "alexander bed and breakfast",
+        "name": "Alexander Bed and breakfast",
         "phone": "01223525725",
         "postcode": "cb12de",
         "price": {
@@ -68,7 +68,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "517a coldham lane",
+        "address": "517a Coldham Lane",
         "area": "east",
         "internet": "yes",
         "parking": "yes",
@@ -122,7 +122,7 @@
             52.2309912,
             0.1295545
         ],
-        "name": "arbury lodge guesthouse",
+        "name": "Arbury lodge guesthouse",
         "phone": "01223364319",
         "postcode": "cb42je",
         "price": {
